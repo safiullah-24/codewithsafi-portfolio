@@ -1,6 +1,6 @@
-# CodeWithSafi — V4 experiment
+# CodeWithSafi — V1 experiment
 
-An independent experimental portfolio for **Safi Ullah / CodeWithSafi**, built from the approved V3 source without changing V3. The original portrait, logo, content evidence, projects, contact data, and GitHub integration are preserved.
+An independent experimental portfolio for **Safi Ullah / CodeWithSafi**, built from the approved V0 source without changing V0. The original portrait, logo, content evidence, projects, contact data, and GitHub integration are preserved.
 
 - V4: https://codewithsafi-v4.safiullah24.chatgpt.site
 - Approved V3: https://safi-engineering.safiullah24.chatgpt.site
