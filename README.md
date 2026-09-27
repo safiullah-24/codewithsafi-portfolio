@@ -2,7 +2,7 @@
 
 An independent experimental portfolio for **Safi Ullah / CodeWithSafi**, built from the approved V0 source without changing V0. The original portrait, logo, content evidence, projects, contact data, and GitHub integration are preserved.
 
-- V4: https://codewithsafi-v4.safiullah24.chatgpt.site
+- V4: https://codewithsafi-portfolio.vercel.app
 - Approved V3: https://safi-engineering.safiullah24.chatgpt.site
 - V3 baseline source: `b4453d85d71bd9ffed9261ce6db27656cfbead58`
 

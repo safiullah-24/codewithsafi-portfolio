@@ -3,7 +3,7 @@
 This archive preserves the source corresponding to the current approved V4 deployment. No website source was changed to create it. The original README, research, design notes, components, routes, motion logic, assets, fonts, configuration, and lockfile are included unchanged.
 
 - Source commit: `740297002ab28d42250fafd2a8f779c17ed15662`
-- Site: https://codewithsafi-v4.safiullah24.chatgpt.site
+- Site: https://codewithsafi-portfolio.vercel.app
 - Site version: 1 of the separate V4 project
 - Exported: 2026-09-27T18:13:13+00:00
 - Original source files: 128

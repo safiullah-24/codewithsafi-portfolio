@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import "./v4.css";
 export const metadata: Metadata = {
-  metadataBase: new URL("https://codewithsafi-v4.safiullah24.chatgpt.site"),
+  metadataBase: new URL("https://codewithsafi-portfolio.vercel.app"),
   title: "Safi Ullah — CodeWithSafi",
   description:
     "Safi Ullah / CodeWithSafi. Software engineer, computer science student, and creator of PolyBridge and the Poly language direction. Explore my stack, projects, and original R&D.",
@@ -33,7 +33,7 @@ export default function RootLayout({
     "@type": "Person",
     name: "Safi Ullah",
     alternateName: "CodeWithSafi",
-    url: "https://codewithsafi-v4.safiullah24.chatgpt.site",
+    url: "https://codewithsafi-portfolio.vercel.app",
     jobTitle: "Software Engineer",
     description:
       "Software engineer and computer science student. Creator of the PolyBridge concept and Poly language direction, in active architecture and prototyping.",
